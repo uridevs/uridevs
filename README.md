@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @uridevs
-- 👀 I’m interested in python development & data science
-- 🌱 I’m currently learning as much as i can!
+- 👋 Hi, I’m Javier Arroyo aka:@uridevs
+- 👀 I’m interested in Web Development & data science
+- 🌱 I’m currently learning as much as I can while working on a lot of projects!
 - 💞️ I’m looking to collaborate on new open projects
 - 📫 How to reach me: uridevs@gmail.com
 
